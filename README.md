@@ -24,21 +24,6 @@ Tech Stack:
 - Blockchain: MultiChain (Private), Stream-based data storage
 - Communication: JSON-RPC
 
-Project Structure:
-decentra-dns/
-├── Backend/
-│   ├── app.py              (Flask server with API routes)
-│   ├── mcdns.py            (MultiChain Domain logic)
-│   ├── multichain.py       (MultiChain RPC wrapper)
-│   └── requirements.txt    (Python dependencies)
-├── Frontend/
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   ├── styles.css
-│   │   └── components/     (UI components)
-│   └── package.json
-└── README.txt
 
 Installation & Setup:
 
