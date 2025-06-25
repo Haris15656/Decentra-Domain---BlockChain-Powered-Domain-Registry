@@ -167,10 +167,3 @@ REACT_PORT=3000
 
 ---
 
-## 📄 **License**
-
-This project is licensed under \[Your License Here].
-
----
-
-Let me know if you want me to add badges, Docker support, or deployment instructions (e.g., for Heroku, Vercel, or DigitalOcean).
