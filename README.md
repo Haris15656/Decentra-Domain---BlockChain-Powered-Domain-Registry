@@ -1,6 +1,4 @@
-Here’s a polished and more professional version of your `README.md` that improves clarity, structure, grammar, and formatting while preserving all technical details:
 
----
 
 # **DecentraDNS** – Decentralized Domain Name System
 
